@@ -1,0 +1,48 @@
+#addMealButton {
+
+}
+
+#addMealForm {
+    display: none;
+    padding: 30px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+select, input {
+    margin: 5px;
+}
+
+#newMealDate {
+    width: 300px;
+}
+
+.form-select {
+    width: auto;
+}
+
+.date-record {
+    margin: 30px;
+}
+
+.date-record-header {
+    padding: 5px;
+    color: white;
+}
+
+.date-record-header:hover {
+    cursor: pointer;
+}
+
+.daily-summary {
+    display: flex;
+    padding: 5px;
+}
+
+.daily-summary-data {
+    margin-right: 20px;
+}
+
+.accordion {
+    display: none;
+}
